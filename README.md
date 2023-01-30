@@ -1,1 +1,1 @@
-# Sorting-Methods
+# Sorting-Algorithms
